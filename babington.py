@@ -19,6 +19,7 @@ import fcntl
 import struct
 import nmap
 import subprocess
+import interface
 
 SIOCGIFNETMASK = 0x891b
 
